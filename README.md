@@ -21,7 +21,7 @@ git clone https://github.com/your-username/recruitment-management-system.git
 2. Navigate to the project directory:
 
 ```bash
-cd recruitment-management-system
+cd Hack_Talent_Trax
 ```
 
 3. Install server dependencies:
