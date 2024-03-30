@@ -32,8 +32,8 @@ This project aligns with the theme of human resources management and software de
 2. Navigate to the project directory:
    ```bash
    cd Hack_Talent_Trax
-npm install
-cd frontend
-npm install
-cd ..
-npm run dev
+   npm install
+   cd frontend
+   npm install
+   cd ..
+   npm run dev
